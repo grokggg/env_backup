@@ -1,0 +1,7 @@
+# egress probe 2026-11-05T19:25:51+08:00
+ -> 200
+/health -> 200
+/status -> 200
+/v1/status -> 200
+/api/status -> 404
+/version -> 200
